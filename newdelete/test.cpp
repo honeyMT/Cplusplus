@@ -1,3 +1,5 @@
+//new and delete
+
 class Array  
 {  
 public :  
